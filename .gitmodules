@@ -1,0 +1,3 @@
+[submodule "shellcopy"]
+	path = shellcopy
+	url = git@github.com:sechchr22/shellcopy.git
