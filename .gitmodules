@@ -4,3 +4,21 @@
 [submodule "AirBnB_clone_v1"]
 	path = AirBnB_clone_v1
 	url = git@github.com:sechchr22/AirBnB_clone.git
+[submodule "simple_shell"]
+	path = simple_shell
+	url = git@github.com:sechchr22/HolbertonSchool-simple_shell.git
+[submodule "AirBnB_clone_v2"]
+	path = AirBnB_clone_v2
+	url = git@github.com:sechchr22/HolbertonSchool-AirBnB_clone_v2.git
+[submodule "low_level_programming"]
+	path = low_level_programming
+	url = git@github.com:sechchr22/holbertonschool-low_level_programming.git
+[submodule "high_level_programming"]
+	path = high_level_programming
+	url = git@github.com:sechchr22/holbertonschool-higher_level_programming.git
+[submodule "devops"]
+	path = devops
+	url = git@github.com:sechchr22/HolbertonSchool--devops.git
+[submodule "final_project"]
+	path = final_project
+	url = git@github.com:sechchr22/HolbertonSchool-FinalProject.git
