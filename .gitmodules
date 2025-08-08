@@ -1,3 +1,6 @@
 [submodule "shellcopy"]
 	path = shellcopy
 	url = git@github.com:sechchr22/shellcopy.git
+[submodule "AirBnB_clone_v1"]
+	path = AirBnB_clone_v1
+	url = git@github.com:sechchr22/AirBnB_clone.git
